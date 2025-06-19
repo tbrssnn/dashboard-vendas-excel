@@ -1,6 +1,6 @@
 # 📊 Dashboard de Vendas do Xbox Game Pass - Excel Interativo
 
-Projeto desenvolvido como parte do Curso Excel com Inteligência Artificial DIO-Santander com foco em visualização de dados e construção de dashboards. 
+Projeto desenvolvido como parte do Curso Excel com Inteligência Artificial DIO-Santander com foco em visualização de dados e construção de dashboards.  
 O objetivo foi transformar dados brutos de assinaturas em informações visuais claras e úteis, facilitando a análise de desempenho de vendas e a tomada de decisões baseadas em dados.
 
 ## 🎯 Objetivo do Projeto
@@ -60,7 +60,7 @@ A identidade visual do dashboard foi construída para refletir a marca Xbox:
 
 ## 📸 Imagens da Interface
 
-Imagens disponíveis na pasta `/imagens` do repositório para visualizar as telas principais da planilha.
+![Captura do Dashboard](https://github.com/tbrssnn/dashboard-vendas-excel/blob/main/images/Captura%20de%20tela.jpg?raw=true)
 
 ## 📈 Exemplos de Insights
 
@@ -71,8 +71,10 @@ Imagens disponíveis na pasta `/imagens` do repositório para visualizar as tela
 
 ## 📥 Download
 
-Clique para baixar a versão mais recente:  
-👉 [Download do dashboard](https://github.com/seu-usuario/dashboard-xbox-gamepass/raw/main/dashboard-xbox.xlsx)
+📂 Clique para baixar a versão mais recente da planilha:  
+👉 [Download do Dashboard - ProjetoDashboard-Final.xlsx](https://github.com/tbrssnn/dashboard-vendas-excel/blob/main/files/ProjetoDashboard-Final.xlsx?raw=true)
 
 ## 🧠 Autor
-Thiago Brassanini tbrassanini@gmail.com
+
+Thiago Brassanini  
+📧 tbrassanini@gmail.com  
