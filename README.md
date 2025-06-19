@@ -72,8 +72,7 @@ A identidade visual do dashboard foi construída para refletir a marca Xbox:
 ## 📥 Download
 
 📂 Clique para baixar a versão mais recente da planilha:  
-👉 [Download do Dashboard - ProjetoDashboard-Final.xlsx](https://github.com/tbrssnn/dashboard-vendas-excel/blob/main/files/ProjetoDashboard-Final.xlsx?raw=true)
-
+👉 [Download do Dashboard - ProjetoDashboard-Final.xlsx](https://github.com/tbrssnn/dashboard-vendas-excel/raw/main/files/ProjetoDashboard-Final.xlsx)
 ## 🧠 Autor
 
 Thiago Brassanini  
